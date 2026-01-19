@@ -30,8 +30,8 @@ const Contact = () => {
                                 </div>
                                 <div>
                                     <h3 className="font-serif text-xl font-semibold text-foreground mb-1">Email</h3>
-                                    <p className="text-muted-foreground">hello@betamansion.com</p>
-                                    <p className="text-muted-foreground">support@betamansion.com</p>
+                                    <p className="text-muted-foreground">bettafishhyderabad@gmail.com</p>
+                                    <p className="text-muted-foreground">support@bettafish hyderabad.com</p>
                                 </div>
                             </div>
 
@@ -41,7 +41,7 @@ const Contact = () => {
                                 </div>
                                 <div>
                                     <h3 className="font-serif text-xl font-semibold text-foreground mb-1">Phone</h3>
-                                    <p className="text-muted-foreground">+1 (234) 567-890</p>
+                                    <p className="text-muted-foreground">+91 8074956562</p>
                                     <p className="text-sm text-muted-foreground mt-1">Mon-Fri, 9am - 6pm EST</p>
                                 </div>
                             </div>
@@ -52,8 +52,8 @@ const Contact = () => {
                                 </div>
                                 <div>
                                     <h3 className="font-serif text-xl font-semibold text-foreground mb-1">Visit Us</h3>
-                                    <p className="text-muted-foreground">Premium Aquatics District</p>
-                                    <p className="text-muted-foreground">123 Coral Way, Miami, FL 33101</p>
+                                    <p className="text-muted-foreground">Street No.2 , krishna giri enclave </p>
+                                    <p className="text-muted-foreground">Tarnaka , secunderabad , Telangan</p>
                                 </div>
                             </div>
                         </div>

@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { Facebook, Instagram, Youtube, Mail, MapPin, Phone } from "lucide-react";
 import { Link } from "react-router-dom";
-import logo from "@/assets/bettamansion-logo.png";
+import logo from "@/assets/logo-main.png";
 
 const footerLinks = {
   explore: [
@@ -50,11 +50,11 @@ const Footer = () => {
             >
               <img
                 src={logo}
-                alt="Beta Mansion"
+                alt="Betta Fish Hyderabad"
                 className="h-12 w-auto object-contain"
               />
               <span className="font-serif text-xl font-semibold text-foreground">
-                Betta Mansion
+                Betta Fish Hyderabad
               </span>
             </motion.a>
 
@@ -70,7 +70,7 @@ const Footer = () => {
                 className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors"
               >
                 <Mail className="w-5 h-5" />
-                <span className="text-sm">hello@betamansion.com</span>
+                <span className="text-sm">hello@Betta Fish Hyderabad.com</span>
               </a>
               <a
                 href="tel:+1234567890"
@@ -149,7 +149,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="flex flex-col md:flex-row items-center justify-between gap-6 pt-8 border-t border-border">
           <p className="text-sm text-muted-foreground">
-            © 2024 Betta Mansion. All rights reserved.
+            © 2024 Betta Fish Hyderabad. All rights reserved.
           </p>
 
           {/* Social Links */}

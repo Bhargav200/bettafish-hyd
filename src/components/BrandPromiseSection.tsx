@@ -64,7 +64,7 @@ const BrandPromiseSection = () => {
 
             <div className="space-y-6 text-muted-foreground leading-relaxed">
               <p>
-                Betta Mansion was founded on a singular vision: to elevate the art
+                Betta Fish Hyderabad was founded on a singular vision: to elevate the art
                 of ornamental fishkeeping to unprecedented heights. What began as
                 a passionate pursuit has evolved into a sanctuary for the world's
                 most discerning aquarium enthusiasts.

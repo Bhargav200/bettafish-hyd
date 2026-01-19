@@ -51,7 +51,7 @@ const Footer = () => {
               <img
                 src={logo}
                 alt="Betta Fish Hyderabad"
-                className="h-12 w-auto object-contain"
+                className="h-24 w-auto object-contain"
               />
               <span className="font-serif text-xl font-semibold text-foreground">
                 Betta Fish Hyderabad
@@ -70,18 +70,18 @@ const Footer = () => {
                 className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors"
               >
                 <Mail className="w-5 h-5" />
-                <span className="text-sm">hello@Betta Fish Hyderabad.com</span>
+                <span className="text-sm">hello@bettafishhyd.com</span>
               </a>
               <a
                 href="tel:+1234567890"
                 className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors"
               >
                 <Phone className="w-5 h-5" />
-                <span className="text-sm">+1 (234) 567-890</span>
+                <span className="text-sm">+91 8074956562</span>
               </a>
               <div className="flex items-center gap-3 text-muted-foreground">
                 <MapPin className="w-5 h-5" />
-                <span className="text-sm">Premium Aquatics District</span>
+                <span className="text-sm">Tarnaka, Hyderabad</span>
               </div>
             </div>
           </div>
@@ -149,7 +149,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="flex flex-col md:flex-row items-center justify-between gap-6 pt-8 border-t border-border">
           <p className="text-sm text-muted-foreground">
-            © 2024 Betta Fish Hyderabad. All rights reserved.
+            © 2026 Betta Fish Hyderabad. All rights reserved.
           </p>
 
           {/* Social Links */}

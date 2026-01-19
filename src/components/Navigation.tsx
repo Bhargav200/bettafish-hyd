@@ -39,11 +39,12 @@ const Navigation = () => {
       >
         <div className="container mx-auto px-6 flex items-center justify-between">
           {/* Logo */}
-          <Link to="/" className="flex items-center gap-3">
+          <Link to="/" className="flex items-center gap-3 py-2">
             <img
               src={logo}
-              alt="Beta Mansion"
-              className="h-24 w-auto object-contain"
+              alt="Betta Fish Hyderabad"
+              className={`transition-all duration-500 object-contain ${isScrolled ? "h-20" : "h-36"
+                }`}
             />
           </Link>
 
